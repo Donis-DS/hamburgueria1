@@ -1,0 +1,139 @@
+
+
+.nome-emp {
+    color: #FFBF1C !important;
+    font-weight: 700;
+    font-size: 35px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.459);
+}
+
+.nav-bar01 {
+    background-color: #A60318;
+    padding: 5px;
+}
+
+#nav01 {
+    padding-left: 390px;
+}
+
+.nav-li01 {
+    padding: 0px 20px;
+}
+
+.titulos-nav {
+    color: #FFBF1C !important;
+    font-weight: 600;
+    padding: 5px 20px;
+    border-radius: 10px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.158);
+}
+
+.titulos-nav:hover {
+    background-color: #FFBF1C;
+    color: #A60318 !important;
+}
+
+.texte-prin{
+    padding-top: 130px;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.712);
+    
+}
+
+.texto-prin {
+    font-size: 60px ;
+    font-weight: 700;
+}
+
+.img-prin {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.img-prin01 {
+    box-shadow: 0px 2px 0px #FFBF1C;
+    
+}
+
+.div-h201 {
+    height: 70px;
+}
+
+.h201 {
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}   
+
+.bloco-card {
+    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.153) !important;
+}
+
+.op-cardapio {
+    background-color: #FFBF1C;
+}
+
+.cor-ver {
+    color: #A60318;
+    border-color: #A60318;
+    font-weight:500;
+}
+
+.cor-ver:hover {
+    background-color: #A60318;
+    border-color: #A60318;
+    color: #FFBF1C;
+}
+
+.car-preco {
+    font-weight: 600;
+    color: #0A0A0A !important;
+}
+
+.div-local {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.local {
+    border-radius: 8px;
+
+}
+
+.bt-agendar {
+    background-color: #A60318;
+    border-color: #A60318;
+    color: white;
+    font-weight: 600;
+}
+
+.bt-agendar:hover {
+    background-color: #FFBF1C;
+    border-color: #FFBF1C;
+    color: black;
+}
+
+#localizacao {
+    
+}
+
+.fundo-02 {
+    background-size: cover;
+}
+
+.img-fundo-02 {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.bt-saiba-mais {
+    background-color: #FFBF1C;
+    border-color: #FFBF1C;
+    color: #0A0A0A !important;
+    font-weight: 600;
+}
+
+.bt-saiba-mais:hover {
+    background-color: #755a13;
+    border-color: #755a13;
+    color: white !important;
+}
